@@ -1,7 +1,4 @@
 <?php
-/**
- * Simple Stats: PHP web statistics software. See the license.txt file for copyright and licensing information.
- */
 
 if ( get_magic_quotes_gpc() ) {
 	foreach ( array_keys( $_GET ) as $key ) 
